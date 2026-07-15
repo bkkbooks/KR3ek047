@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ek047/v1
 canonical_location: https://kanripo.org/bkk/KR3ek047/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 純懿廬集（瘡瘍）
   identifiers:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 正文
   type: section
   level: 1
-hash: sha256:ac602fbc0e50e72774afdef0c032023be20f6136388ead4ebefe7c3f346fdce3
+hash: sha256:1bbc5e048d2f62cc24758635f59cd25fdf730623b932e59804b971eed89fb34b
